@@ -148,9 +148,6 @@ body{
     background-color: var(--color5);
     min-height: 252px;
 }
-.footerLogo{
-    padding: 56px 1px 10px;
-}
 .footerContact{
     padding-left: 215px;
     width: 200px;
@@ -180,6 +177,7 @@ body{
     font-weight: 700;
     color: var(--color1);
     letter-spacing: 0.03em;
+    padding: 56px 1px 10px;
 }
 .menuBar1{
     font-size: 14px;
@@ -232,6 +230,8 @@ body{
     font-weight: 700;
     line-height: 2;
     letter-spacing: 0.06em;
+    text-decoration: none;
+    color: var(--color2);
     padding: 0px 20px;
 }
 .description{
